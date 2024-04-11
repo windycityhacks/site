@@ -45,7 +45,7 @@
             <img class="mx-auto px-4 h-16" src="/full_logo.png" />
             <div class="w-1/2 md:w-1/6 mx-auto mt-4 grid grid-cols-3 gap-0">
                 <div class="mx-auto">
-                    <a href="mailto:email@email.com">
+                    <a href="mailto:team@windycityhacks.com">
                         <svg class="h-8" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
                             <g id="SVGRepo_iconCarrier"> 
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="w-2/3 mx-auto">
-                <p class="mt-4 text-white/70">&copy; WindyCityHacks 2024</p>
+                <p class="mt-4 text-white/70">&copy; Windy City Hacks 2024</p>
                 <p class="text-white/70">Fiscally sponsored by The Hack Foundation (EIN: 81-2908499)</p>
             </div>
         </div>

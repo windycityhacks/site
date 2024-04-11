@@ -53,7 +53,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">How much does it cost?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        Nothing! Registration, attendence -- the entire event is 100% free, thanks to our generous sponsors. Food, drinks, workshops, and prizes are all included.
+                        Nothing! Registration, attendence -- the entire event is 100% free, thanks to our generous sponsors. Food, drinks, workshops, and prizes are all included. Interested in sponsoring? <a class="italic hover:underline decoration-wavy decoration-secondary" href="mailto:andrew@windycityhacks.com">Contact us!</a>
                     </p>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">Who is organizing this? Will it be supervised?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        WindyCityHacks is independently organized by a group of high school students from the Chicagoland area, sponsored by an international nonprofit called <a class="italic hover:underline decoration-wavy decoration-secondary" href="https://the.hackfoundation.org/" target="_blank">The Hack Foundation</a>. We'll have adult mentors and chaperones supervising the entire event.
+                        Windy City Hacks is independently organized by a group of high school students from the Chicagoland area, sponsored by an international nonprofit called <a class="italic hover:underline decoration-wavy decoration-secondary" href="https://the.hackfoundation.org/" target="_blank">The Hack Foundation</a>. We'll have adult mentors and chaperones supervising the entire event.
                     </p>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         <img class="rounded-full mx-auto max-h-40" src="/photos/andrew.jpeg" />
                         <p class="mt-2 text-lg font-semibold">Andrew Wolf</p>
                         <div class="flex justify-center items-center">
-                            <a href="mailto:email@email.com">
+                            <a href="mailto:andrew@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
                                     <g id="SVGRepo_iconCarrier"> 
@@ -92,7 +92,7 @@
                         <img class="rounded-full mx-auto max-h-40" src="/photos/connor.jpeg " />
                         <p class="mt-2 text-lg font-semibold">Connor Lin</p>
                         <div class="flex justify-center items-center">
-                            <a href="mailto:email@email.com">
+                            <a href="mailto:connor@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
                                     <g id="SVGRepo_iconCarrier"> 
@@ -106,7 +106,7 @@
                         <img class="rounded-full mx-auto max-h-40" src="/photos/mooky.jpg" />
                         <p class="mt-2 text-lg font-semibold">Miles Klein</p>
                         <div class="flex justify-center items-center">
-                            <a href="mailto:email@email.com">
+                            <a href="mailto:miles@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
                                     <g id="SVGRepo_iconCarrier"> 
@@ -120,7 +120,7 @@
                         <img class="rounded-full mx-auto max-h-40" src="/photos/jacob.jpg" />
                         <p class="mt-2 text-lg font-semibold">Jacob Zerull</p>
                         <div class="flex justify-center items-center">
-                            <a href="mailto:email@email.com">
+                            <a href="mailto:jacob@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
                                     <g id="SVGRepo_iconCarrier"> 
