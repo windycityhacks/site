@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <Title>WindyCityHacks</Title>
+        <Title>Windy City Hacks – Chicago’s high school hackathon</Title>
         <Link rel="icon" href="/favicon.ico" />
     </Head>
     <nav class="bg-primary py-4 flex justify-center items-center text-white text-lg md:text-2xl">
@@ -21,7 +21,7 @@
         <div>
             <img class="mx-auto px-4 sm:h-28 lg:h-48" src="/full_logo.png" />
             <div class="mt-4 text-white rounded-lg p-2 lg:p-4">
-                <p class="text-2xl md:text-3xl font-semibold text-center">Build <i class="underline decoration-wavy decoration-secondary decoration-2">something amazing</i> in just 24 hours.</p>
+                <p class="text-2xl md:text-3xl text-center">Build <i class="underline decoration-wavy decoration-secondary decoration-2">something amazing</i> in just 24 hours.</p>
                 <p class="mt-2 text-lg md:text-2xl text-center text-white/70">June 22-23rd, 2024</p>
             </div>
         </div>
