@@ -12,12 +12,12 @@
                     </div>
                 </div>
                 <div class="lg:w-3/5 p-8 my-auto">
-                    <img class="border-4 border-primary object-cover rounded-lg mx-auto" src="/photos/group.jpg">
+                    <img class="select-none border-4 border-primary object-cover rounded-lg mx-auto" src="/photos/group.jpg">
                 </div>
             </div>
             <div class="lg:flex 3xl:w-2/3 mx-auto">
                 <div class="p-8 my-auto">
-                    <img class="border-4 border-primary object-cover rounded-lg mx-auto my-auto" src="/photos/mentors.jpeg">
+                    <img class="select-none border-4 border-primary object-cover rounded-lg mx-auto my-auto" src="/photos/mentors.jpeg">
                 </div>
                 <div class="lg:w-3/5 p-8 my-auto">
                     <h2 class="lg:pt-8 text-center font-bouquet text-5xl text-primary">🤷 But why?</h2>
@@ -75,7 +75,7 @@
             <div class="mt-4 mx-8 lg:mx-auto lg:w-2/3 bg-white p-8 rounded-lg shadow-lg">
                 <div class="grid grid-rows-4 md:grid-rows-none md:grid-cols-4 gap-8">
                     <div class="text-center"> 
-                        <img class="rounded-full mx-auto max-h-40" src="/photos/andrew.jpeg" />
+                        <img class=" select-none rounded-full mx-auto max-h-40" src="/photos/andrew.jpeg" />
                         <p class="mt-2 text-lg font-semibold">Andrew Wolf</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:andrew@windycityhacks.com">
@@ -89,7 +89,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <img class="rounded-full mx-auto max-h-40" src="/photos/connor.jpeg " />
+                        <img class="select-none rounded-full mx-auto max-h-40" src="/photos/connor.jpeg " />
                         <p class="mt-2 text-lg font-semibold">Connor Lin</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:connor@windycityhacks.com">
@@ -103,7 +103,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <img class="rounded-full mx-auto max-h-40" src="/photos/mooky.jpg" />
+                        <img class="select-none rounded-full mx-auto max-h-40" src="/photos/mooky.jpg" />
                         <p class="mt-2 text-lg font-semibold">Miles Klein</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:miles@windycityhacks.com">
@@ -117,7 +117,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <img class="rounded-full mx-auto max-h-40" src="/photos/jacob.jpg" />
+                        <img class="select-none rounded-full mx-auto max-h-40" src="/photos/jacob.jpg" />
                         <p class="mt-2 text-lg font-semibold">Jacob Zerull</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:jacob@windycityhacks.com">

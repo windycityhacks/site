@@ -19,12 +19,12 @@
     </nav>
     <div class="relative flex justify-center items-center bg-primary py-6">
         <div>
-            <img class="mx-auto px-4 sm:h-28 lg:h-48" src="/full_logo.png" />
+            <img class="select-none mx-auto px-4 sm:h-28 lg:h-48" src="/full_logo.png" />
             <div class="mt-4 text-white rounded-lg p-2 lg:p-4">
                 <h2 class="text-center text-4xl text-white lg:flex justify-center items-center">Build 
                     <div class=" mx-3 relative italic font-semibold underline lg:no-underline decoration-secondary">
                         something amazing
-                        <img class="hidden lg:block absolute top-6" src="/underline.svg" />
+                        <img class="select-none hidden lg:block absolute top-6" src="/underline.svg" />
                     </div> 
                     in just 24 hours.
                 </h2>
@@ -40,7 +40,7 @@
         <h2 class="pt-16 text-center text-5xl text-white lg:flex justify-center items-center">Let's build 
             <p class="mx-4 relative italic font-semibold underline lg:no-underline decoration-secondary">
                 something amazing
-                <img class="hidden lg:block absolute top-7" src="/underline.svg" />
+                <img class="select-none hidden lg:block absolute top-7" src="/underline.svg" />
             </p> 
             together.
         </h2>
@@ -54,7 +54,7 @@
             </div>
         </div>
         <div class="mt-16 text-center">
-            <img class="mx-auto px-4 h-16" src="/full_logo.png" />
+            <img class="select-none mx-auto px-4 h-16" src="/full_logo.png" />
             <div class="w-1/2 md:w-1/6 mx-auto mt-4 grid grid-cols-3 gap-0">
                 <div class="mx-auto">
                     <a href="mailto:team@windycityhacks.com">
