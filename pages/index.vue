@@ -23,7 +23,7 @@
                     <h2 class="lg:pt-8 text-center font-bouquet text-5xl text-primary">🤷 But why?</h2>
                     <div class="w-full mt-4 mx-auto bg-white p-4 rounded-lg shadow-lg">
                         <p class="text-lg lg:text-xl">
-                            Now, more than ever, coding and digital design have become vital skills. Classes in school are great, but don't offer a way for you to think outside of the box. Learning online builds independence, with confusion and lack of community. Building (and <i class="underline decoration-dotted decoration-secondary">breaking</i>) things <b>together</b> is the <i>best</i> way to learn. That's why we're here.
+                            Now, more than ever, coding and digital design have become vital skills. Classes in school are great, but don't offer a way for you to think outside of the box. Learning online builds independence, with confusion and lack of community. Building (and <i class="underline decoration-dotted decoration-secondary">breakin</i>) things <b>together</b> is the <i>best</i> way to learn. That's why we're here.
                         </p>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">Who is organizing this? Will it be supervised?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        Windy City Hacks is independently organized by a group of high school students from the Chicagoland area, sponsored by an international nonprofit called <a class="italic hover:underline decoration-wavy decoration-secondary" href="https://the.hackfoundation.org/" target="_blank">The Hack Foundation</a>. We'll have adult mentors and chaperones supervising the entire event.
+                        Windy City Hacks is independently organized by a group of high school students from the Chicagoland area, fiscally sponsored by an international nonprofit called <a class="italic hover:underline decoration-wavy decoration-secondary" href="https://the.hackfoundation.org/" target="_blank">The Hack Foundation</a>. We'll have adult mentors and chaperones supervising the entire event.
                     </p>
                 </div>
             </div>
