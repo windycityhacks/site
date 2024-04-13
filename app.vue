@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <Title>Windy City Hacks – Chicago’s high school hackathon</Title>
+        <Title>Windy City Hacks – Chicagoland’s high school hackathon</Title>
         <Link rel="icon" href="/favicon.ico" />
     </Head>
     <nav class="bg-primary py-4 flex justify-center items-center text-white text-lg md:text-xl">
