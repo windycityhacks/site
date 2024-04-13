@@ -13,9 +13,9 @@
         <!-- <NuxtLink to="/schedule" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Schedule
         </NuxtLink> -->
-        <NuxtLink to="/register" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <a href="/register" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Sign Up
-        </NuxtLink>
+        </a>
     </nav>
     <div class="relative flex justify-center items-center bg-primary py-6">
         <div>
