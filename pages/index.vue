@@ -6,9 +6,8 @@
                     <h2 class="pt-8 text-center font-bouquet text-5xl text-primary">🔎 Who are we?</h2>
                     <div class="w-full mt-4 mx-auto bg-white p-4 rounded-lg shadow-lg">
                         <p class="text-lg lg:text-xl">
-                            Windy City Hacks is a free 24-hour event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games. We'll provide workshops to learn, mentors to assist, food to eat, and prizes to win. The next day, judges will pick the best demos and win prizes!
+                            Windy City Hacks is a free 24-hour event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games. We'll provide workshops to learn, mentors to assist, food to eat, and prizes to win. The next day, judges will pick the best demos to win prizes!
                         </p>
-                        TODO: REWRITE!!
                     </div>
                 </div>
                 <div class="lg:w-3/5 p-8 my-auto">
@@ -23,7 +22,7 @@
                     <h2 class="lg:pt-8 text-center font-bouquet text-5xl text-primary">🤷 But why?</h2>
                     <div class="w-full mt-4 mx-auto bg-white p-4 rounded-lg shadow-lg">
                         <p class="text-lg lg:text-xl">
-                            Now, more than ever, coding and digital design have become vital skills. Classes in school are great, but don't offer a way for you to think outside of the box. Learning online builds independence, with confusion and lack of community. Building (and <i class="underline decoration-dotted decoration-secondary">breakin</i>) things <b>together</b> is the <i>best</i> way to learn. That's why we're here.
+                            Now, more than ever, coding and digital design have become vital skills. Classes in school are great, but don't offer a way for you to think outside of the box. Learning online builds independence, with confusion and lack of community. Building (and <i class="underline decoration-dotted decoration-secondary">breaking</i>) things <b>together</b> is the <i>best</i> way to learn. That's why we're here.
                         </p>
                     </div>
                 </div>
