@@ -29,6 +29,9 @@
                     in just 24 hours.
                 </h2>
                 <p class="mt-2 lg:mt-8 text-lg md:text-2xl text-center text-white/70">June 22-23rd, 2024</p>
+                <div class="flex flex-col items-center justify-center">
+                    <a @click="trackEvent('Register CTA')" href="/register" class="mt-6 bg-white border-4 border-secondary hover:bg-white/90 text-primary font-semibold text-2xl px-8 py-4 rounded-lg">Register Now</a>
+                </div>
             </div>
         </div>
         <div :style="`transform: translateX(-6%)`" class="bottom-0 absolute w-full">
