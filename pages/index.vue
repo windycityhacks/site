@@ -60,7 +60,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">What should I bring?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        First, yourself! Then, make sure to bring a computer, chargers, anything else that may help you hack, tolitries, & a sleeping bag (if you plan on sleeping). Don't forget a student ID! We'll be checking at the door.
+                        First, yourself! Then, make sure to bring a computer, chargers, anything else that may help you hack, toiletries, & a sleeping bag (if you plan on sleeping). Don't forget a student ID! We'll be checking at the door.
                     </p>
                 </div>
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
@@ -76,6 +76,7 @@
                     <div class="text-center"> 
                         <img class=" select-none rounded-full mx-auto max-h-40" src="/photos/andrew.jpeg" />
                         <p class="mt-2 text-lg font-semibold">Andrew Wolf</p>
+                        <p class="text-sm mb-1 text-gray-500">Stevenson High School</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:andrew@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -90,6 +91,7 @@
                     <div class="text-center">
                         <img class="select-none rounded-full mx-auto max-h-40" src="/photos/connor.jpeg " />
                         <p class="mt-2 text-lg font-semibold">Connor Lin</p>
+                        <p class="text-sm mb-1 text-gray-500">Stevenson High School</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:connor@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -104,6 +106,7 @@
                     <div class="text-center">
                         <img class="select-none rounded-full mx-auto max-h-40" src="/photos/mooky.jpg" />
                         <p class="mt-2 text-lg font-semibold">Miles Klein</p>
+                        <p class="text-sm mb-1 text-gray-500">Stevenson High School</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:miles@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -118,6 +121,7 @@
                     <div class="text-center">
                         <img class="select-none rounded-full mx-auto max-h-40" src="/photos/jacob.jpg" />
                         <p class="mt-2 text-lg font-semibold">Jacob Zerull</p>
+                        <p class="text-sm mb-1 text-gray-500">Stevenson High School</p>
                         <div class="flex justify-center items-center">
                             <a href="mailto:jacob@windycityhacks.com">
                                 <svg class="h-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
