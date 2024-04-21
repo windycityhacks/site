@@ -16,6 +16,9 @@
         <a href="/register" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Sign Up
         </a>
+        <a href="https://windyhacks.com" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+            2019
+        </a>
     </nav>
     <div class="relative flex justify-center items-center bg-primary py-6">
         <div>
