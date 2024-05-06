@@ -72,10 +72,11 @@
             </div>
             <h2 class="mt-16 text-center font-bouquet text-5xl text-primary">🤟 Sponsors</h2>
             <div class="mt-4 mx-8 lg:mx-auto lg:w-2/3 bg-white p-8 rounded-lg shadow-lg">
-                <div class="sm:flex gap-14 justify-center items-center mb-8 sm:mb-0">
-                        <a href="https://aws.amazon.com" target="_blank"><img class="mx-auto h-28 md:h-48" src="/sponsors/aws.webp" /></a>
-                        <a href="https://vercel.com" target="_blank"><img class="mx-auto h-12 md:h-20" src="/sponsors/vercel.png" /></a>
-                        <a href="https://usefathom.com" target="_blank"><img class="mx-auto h-20 md:h-28" src="/sponsors/fathom.png" /></a>
+                <div class="md:flex gap-14 justify-center items-center mb-8 sm:mb-0">
+                        <a href="https://aws.amazon.com" target="_blank"><img class="mx-auto h-24 mb-8 md:mb-0" src="/sponsors/aws.png" /></a>
+                        <a href="https://vercel.com" target="_blank"><img class="mx-auto h-16 mb-8 md:mb-0" src="/sponsors/vercel.png" /></a>
+                        <a href="https://usefathom.com" target="_blank"><img class="mx-auto h-28 mb-8 md:mb-0" src="/sponsors/fathom.png" /></a>
+                        <a href="https://developer.cisco.com/" target="_blank"><img class="mx-auto h-24 " src="/sponsors/cisco.png" /></a>
                 </div>
             </div>
             <h2 class="mt-16 text-center font-bouquet text-5xl text-primary">🤝 Leadership</h2>
