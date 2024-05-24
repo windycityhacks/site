@@ -52,8 +52,12 @@
         </h2>
         <div class="lg:w-2/3 mx-auto grid grid-rows-2 gap-8 md:grid-rows-none md:grid-cols-2 mt-12">
             <div class="text-center">
-                <p class="mt-2 text-2xl lg:text-3xl text-center text-white/70">June 22nd-23rd, 2024</p>
-                <p class="mt-2 text-2xl lg:text-3xl text-center text-white/70">Venue TBA</p>
+                <p class="mt-2 mb-2 text-2xl lg:text-3xl text-center text-white/70">June 22nd-23rd, 2024</p>
+                <a 
+                    href="https://www.google.com/maps/place/Towne+Place+West/@42.0267801,-88.1528624,16z/data=!3m1!4b1!4m6!3m5!1s0x880fa83465400e3b:0xa03a283520013e1b!8m2!3d42.0267801!4d-88.1528624!16s%2Fg%2F1tftlt9f?entry=ttu" 
+                    target="_blank"
+                    class="hover:underline hover:decoration-wavy hover:decoration-secondary text-2xl lg:text-3xl text-center text-white/70"
+                >Towne Place West, Schaumburg IL</a>
             </div>
             <div class="text-center my-auto">
                 <a @click="trackEvent('Register CTA')" href="/register" class="bg-white border-4 border-secondary hover:bg-white/90 text-primary font-semibold text-2xl px-8 py-4 rounded-lg">Register Now</a>
