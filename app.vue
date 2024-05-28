@@ -16,7 +16,7 @@
         <a href="/register" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Sign Up
         </a>
-        <a href="https://windyhacks.com" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <a href="https://2019.windyhacks.com" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             2019
         </a>
     </nav>
