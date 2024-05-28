@@ -72,13 +72,14 @@
             </div>
             <h2 class="mt-16 text-center font-bouquet text-5xl text-primary">🤟 Sponsors</h2>
             <div class="mt-4 mx-8 lg:mx-auto lg:w-2/3 bg-white px-8 pt-8 rounded-lg shadow-lg">
-                <div class="xl:flex gap-14 justify-center items-center mb-8 sm:mb-0">
-                        <a href="https://aws.amazon.com" target="_blank"><img class="mx-auto h-18 w-48 mb-8 xl:mb-0" src="/sponsors/aws.png" /></a>
-                        <a href="https://vercel.com" target="_blank"><img class="mx-auto h-16 w-72 mb-8 xl:mb-0" src="/sponsors/vercel.png" /></a>
-                        <a href="https://usefathom.com" target="_blank"><img class="mx-auto h-28 min-w-28 mb-8 xl:mb-0" src="/sponsors/fathom.png" /></a>
-                        <a href="https://developer.cisco.com/" target="_blank"><img class="mx-auto h-24" src="/sponsors/cisco.png" /></a>
+                <div class="2xl:flex gap-14 justify-center items-center mb-8 sm:mb-0">
+                        <a href="https://aws.amazon.com" target="_blank"><img class="mx-auto h-18 w-48 mb-8 2xl:mb-0" src="/sponsors/aws.png" /></a>
+                        <a href="https://vercel.com" target="_blank"><img class="mx-auto h-16 w-72 mb-8 2xl:mb-0" src="/sponsors/vercel.png" /></a>
+                        <a href="https://usefathom.com" target="_blank"><img class="mx-auto h-28 min-w-28 mb-8 2xl:mb-0" src="/sponsors/fathom.png" /></a>
+                        <a href="https://developer.cisco.com/" target="_blank"><img class="mx-auto min-w-52 h-24" src="/sponsors/cisco.png" /></a>
+                        <a href="https://draftbit.com/" target="_blank"><img class="mx-auto min-w-52 h-28" src="/sponsors/draftbit.png" /></a>
                 </div>
-                <p class="mt-8 pb-4 text-center">This could be <span class="text-secondary">YOU</span>! <a href="mailto:andrew@windycityhacks.com" class="italic hover:underline decoration-wavy decoration-secondary">Contact us</a> to learn more about sponsorships.</p>
+                <p class="2xl:mt-8 pb-4 text-center">This could be <span class="text-secondary">YOU</span>! <a href="mailto:andrew@windycityhacks.com" class="italic hover:underline decoration-wavy decoration-secondary">Contact us</a> to learn more about sponsorships.</p>
             </div>
             <h2 class="mt-16 text-center font-bouquet text-5xl text-primary">🤝 Leadership</h2>
             <div class="mt-4 mx-8 lg:mx-auto lg:w-2/3 bg-white p-8 rounded-lg shadow-lg">
