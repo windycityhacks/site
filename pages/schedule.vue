@@ -56,7 +56,7 @@
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">1:00 PM: Snack Time</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Hungry from all that hacking? We'll be offering snacks at one! Grab a bite to eat and stay hydrated while you work on your projects.
+                                Hungry from all that hacking? We'll be offering snacks - grab a bite to eat and stay hydrated while you work on your projects.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
