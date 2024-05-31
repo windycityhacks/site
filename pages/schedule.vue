@@ -50,7 +50,7 @@
                                     target="_blank"
                                     class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary"
                                 >Github</a> 
-                                to collaborate on your projects. You'll also be given access to the <a href="https://education.github.com/pack" class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary">Github Student Developer Pack</a>, with a ton of free tools for your project!
+                                to collaborate on your projects. You'll also be given access to the <a href="https://education.github.com/pack" class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary">Github Student Developer Pack</a>, with a ton of free tools for your project. It might be smart to attend this for the personal website workshop later!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
