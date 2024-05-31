@@ -14,7 +14,7 @@
                                     class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary"
                                     target="_blank"
                                     href="https://www.google.com/maps/place/Towne+Place+West/@42.0267801,-88.1528624,16z/data=!3m1!4b1!4m6!3m5!1s0x880fa83465400e3b:0xa03a283520013e1b!8m2!3d42.0267801!4d-88.1528624!16s%2Fg%2F1tftlt9f?entry=ttu"
-                                >Towne Place West</a>, and sign in with your student ID. We'll be checking at the door.
+                                >Towne Place West</a>, nestled in a quiet and cozy community, you all will have the ability to dive heads first into your projects.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
