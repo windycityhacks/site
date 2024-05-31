@@ -62,7 +62,7 @@
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">2:00 PM: ML/AI Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Ever wanted to learn how to incorporate machine learning and artificial intelligence into your projects?  In this workshop, you'll get a fundamental understanding, learn how they are applied in real-world scenarios, and get hands-on experience with basic ML models.
+                                Interested in incorporating machine learning into your projects? Join us for a workshop led by a government intern, where you'll learn the fundamentals of AI. This session will provide a crash course on deep learning, guiding you through the application of neural networks in real-world scenarios. Learn how to train basic ML models to enhance your projects.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
