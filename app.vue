@@ -2,6 +2,34 @@
     <Head>
         <Title>Windy City Hacks – Chicagoland’s high school hackathon</Title>
         <Link rel="icon" href="/favicon.ico" />
+        <Meta name="description" content="Windy City Hacks is a free two-day event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games." />
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Windy City Hacks",
+                "startDate": "2024-06-22",
+                "endDate": "2024-06-23",
+                "description": "Windy City Hacks is a free two-day event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games.",
+                "location": {
+                    "@type": "Place",
+                    "name": "Towne Place West, Schaumburg, IL",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2841 Meadow Ln",
+                        "addressLocality": "Schaumburg",
+                        "addressRegion": "IL",
+                        "postalCode": "60195",
+                        "addressCountry": "US"
+                    }
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "url": "https://windycityhacks.com"
+                }
+            }
+        </script>
     </Head>
     <nav class="bg-primary py-4 flex justify-center items-center text-white text-lg md:text-xl">
         <NuxtLink to="/" class="hover:underline decoration-wavy decoration-secondary">
