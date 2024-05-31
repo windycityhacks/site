@@ -3,7 +3,7 @@
         <Title>Windy City Hacks – Chicagoland’s high school hackathon</Title>
         <Link rel="icon" href="/favicon.ico" />
         <Meta name="description" content="Windy City Hacks is a free two-day event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games." />
-        <script type="application/ld+json">
+        <Script type="application/ld+json">
             {
                 "@context": "https://schema.org",
                 "@type": "Event",
@@ -29,22 +29,22 @@
                     "url": "https://windycityhacks.com"
                 }
             }
-        </script>
+        </Script>
     </Head>
     <nav class="bg-primary py-4 flex justify-center items-center text-white text-lg md:text-xl">
         <NuxtLink to="/" class="hover:underline decoration-wavy decoration-secondary">
             Home
         </NuxtLink>
-        <NuxtLink to="/#faq" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <NuxtLink to="/#faq" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             FAQ
         </NuxtLink>
-        <NuxtLink to="/schedule" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <NuxtLink to="/schedule" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Schedule
         </NuxtLink>
-        <a href="/register" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <a href="/register" target="_blank" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Sign Up
         </a>
-        <a href="https://2019.windyhacks.com" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <a href="https://2019.windyhacks.com" target="_blank" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             2019
         </a>
     </nav>

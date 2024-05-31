@@ -1,7 +1,7 @@
 <template>
     <div class="h-full">
         <div class="h-full bg-tertiary pb-12">
-            <div class="3xl:w-2/3 mx-auto px-16">
+            <div class="3xl:w-2/3 mx-auto px-4 md:px-16">
                 <h2 class="pt-8 text-center font-bouquet text-5xl text-primary">📅 Schedule</h2>
                 <div class="w-full mt-6 bg-white p-4 rounded-lg shadow-lg">
                     <h2 class="text-left font-bouquet text-4xl text-primary">☝️ Day 1</h2>
