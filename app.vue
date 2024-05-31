@@ -10,9 +10,9 @@
         <NuxtLink to="/#faq" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             FAQ
         </NuxtLink>
-        <!-- <NuxtLink to="/schedule" class="ml-6 hover:underline decoration-wavy decoration-secondary">
+        <NuxtLink to="/schedule" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Schedule
-        </NuxtLink> -->
+        </NuxtLink>
         <a href="/register" target="_blank" class="ml-6 hover:underline decoration-wavy decoration-secondary">
             Sign Up
         </a>
