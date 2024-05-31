@@ -56,7 +56,7 @@
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">1:00 PM: Snack Time</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Hungry from all that hacking? We'll be offering snacks - grab a bite to eat and stay hydrated while you work on your projects.
+                                Hungry from all that hacking? We'll be offering snacks - grab a bite to eat and stay hydrated while you work on your projects. Feel free to bring lunch/snacks of your own!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
@@ -113,12 +113,6 @@
                                     target="_blank"
                                     href="https://www.google.com/maps/place/Towne+Place+West/@42.0267801,-88.1528624,16z/data=!3m1!4b1!4m6!3m5!1s0x880fa83465400e3b:0xa03a283520013e1b!8m2!3d42.0267801!4d-88.1528624!16s%2Fg%2F1tftlt9f?entry=ttu"
                                 >Towne Place West</a>, and enjoy a bagel breakfast with your team to kick off the final stretch!
-                            </p>
-                        </div>
-                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">10:00 AM: Project Submission Deadline</h3>
-                            <p class="text-left text-lg text-black-500 mt-1">
-                                You'll submit your project to us by 10:00 AM sharp. The organizers and a select group of industry judges will review them all based on a standard rubric. In the mean-time, relax and be proud of yourselves!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
