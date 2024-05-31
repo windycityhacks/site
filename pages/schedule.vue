@@ -62,7 +62,7 @@
                         <div class="border-2 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">2:00 PM: ML/AI Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Ever wanted to learn how to incorporate machine learning and artificial intelligence into your projects?  In this workshop, you'll learn the basics of machine learning, and how to use popular libraries like TensorFlow and PyTorch to build and train your models.
+                                Ever wanted to learn how to incorporate machine learning and artificial intelligence into your projects?  In this workshop, you'll get a fundamental understanding, learn how they are applied in real-world scenarios, and get hands-on experience with basic ML models.
                             </p>
                         </div>
                         <div class="border-2 border-primary/75 p-4 rounded-lg">
