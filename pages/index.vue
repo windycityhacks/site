@@ -6,7 +6,7 @@
                     <h2 class="pt-8 text-center font-bouquet text-5xl text-primary">🔎 Who are we?</h2>
                     <div class="w-full mt-4 mx-auto bg-white p-4 rounded-lg shadow-lg">
                         <p class="text-lg lg:text-xl">
-                            Windy City Hacks is a free 24-hour event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games. We'll provide workshops to learn, mentors to assist, food to eat, and prizes to win. The next day, judges will pick the best demos to win prizes!
+                            Windy City Hacks is a free two-day event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games. We'll provide workshops to learn, mentors to assist, food to eat, and prizes to win. The next day, judges will pick the best demos to win prizes!
                         </p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">What is a hackathon?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        A hackathon is a 24-hour event where you can learn to code, build apps, and meet new friends. We'll have workshops, mentors, and prizes to help you along the way.
+                        A hackathon is a two-day event where you can learn to code, build apps, and meet new friends. We'll have workshops, mentors, and prizes to help you along the way.
                     </p>
                 </div>
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
@@ -60,7 +60,7 @@
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
                     <h3 class="bg-primary text-white p-4 text-xl font-semibold rounded-t">What should I bring?</h3>
                     <p class="bottom-0 text-lg p-4">
-                        First, yourself! Then, make sure to bring a computer, chargers, anything else that may help you hack, toiletries, & a sleeping bag (if you plan on sleeping). Don't forget a student ID! We'll be checking at the door.
+                        First, yourself! Then, make sure to bring a computer, chargers, anything else that may help you hack. Don't forget a student ID! We'll be checking at the door.
                     </p>
                 </div>
                 <div class="mt-4 mx-auto bg-white rounded-lg ring-2 ring-primary shadow-lg">
