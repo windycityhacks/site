@@ -70,7 +70,7 @@
                     </p>
                 </div>
             </div>
-            <h2 class="mt-16 text-center font-bouquet text-5xl text-primary">🤟 Sponsors</h2>
+            <h2 class="mt-16 text-center font-bouquet text-5xl text-primary" id="sponsors">🤟 Sponsors</h2>
             <div class="mt-4 mx-8 lg:mx-auto lg:w-2/3 bg-white px-8 pt-8 rounded-lg shadow-lg">
                 <div class="lg:grid grid-cols-3 gap-4 justify-center items-center mb-8 sm:mb-0">
                     <a href="https://aws.amazon.com" target="_blank"><img class="mx-auto max-h-16 mb-8 2xl:mb-0" src="/sponsors/aws.png" /></a>
