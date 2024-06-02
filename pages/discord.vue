@@ -1,7 +1,7 @@
 <script setup>
 
 await navigateTo(
-    'https://discord.gg/MssKmhGarP',
+    'https://discord.gg/D3HVAhcfWH',
     {
         external: true,
     }
