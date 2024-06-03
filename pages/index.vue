@@ -80,6 +80,7 @@
                     <a href="https://draftbit.com/" target="_blank"><img class="mx-auto max-h-36" src="/sponsors/draftbit.png" /></a>
                     <a href="https://desmos.com/" target="_blank"><img class="mx-auto max-h-12 mb-12 lg:mb-0" src="/sponsors/desmos.png" /></a>
                     <a href="https://codecrafters.io/" target="_blank"><img class="mx-auto max-h-16 mt-4" src="/sponsors/codecrafters.png" /></a>
+                    <a href="https://hackclub.com/" target="_blank"><img class="mx-auto max-h-24" src="/sponsors/hackclub.png" /></a>
                 </div>
                 <p class="mt-8 pb-4 text-center">This could be <span class="text-secondary">YOU</span>! <a href="mailto:andrew@windycityhacks.com" class="italic hover:underline decoration-wavy decoration-secondary">Contact us</a> to learn more about sponsorships.</p>
             </div>
