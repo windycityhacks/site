@@ -1,7 +1,7 @@
 <script setup>
 
 await navigateTo(
-    'https://calendly.com/andrew-9gpu/30min',
+    'https://hcb.hackclub.com/donations/start/windy-city-hacks',
     {
         external: true,
     }
