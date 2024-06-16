@@ -95,7 +95,7 @@
             </div>
             <div class="w-2/3 mx-auto">
                 <p class="mt-4 text-white/70">&copy; Windy City Hacks 2024</p>
-                <a href="/fiscal_sponsorship_confirmation.pdf" target="_blank" class="text-white/70 hover:underline hover:decoration-wavy hover:decoration-secondary italic">Fiscally sponsored by The Hack Foundation (EIN: 81-2908499)</NuxtLink>
+                <a href="/fiscal_sponsorship_confirmation.pdf" target="_blank" class="text-white/70 hover:underline hover:decoration-wavy hover:decoration-secondary italic">Fiscally sponsored by The Hack Foundation (EIN: 81-2908499)</a>
             </div>
         </div>
     </div>
