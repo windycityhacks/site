@@ -4,15 +4,15 @@
         <Link rel="icon" href="/favicon.ico" />
         <Meta name="description" content="Windy City Hacks is a free two-day event for programmers, artists, designers, & other high schoolers in the Chicagoland area to come together and build apps & games." />
     </Head>
-    <nav class="bg-primary py-4 flex justify-center items-center text-white text-lg md:text-xl">
+    <nav class="bg-primary py-4 flex justify-center items-center text-white md:text-xl">
         <NuxtLink to="/" class="hover:underline decoration-wavy decoration-secondary">
             Home
         </NuxtLink>
-        <NuxtLink to="/#faq" class="ml-4 hover:underline decoration-wavy decoration-secondary">
-            FAQ
-        </NuxtLink>
         <NuxtLink to="/schedule" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Schedule
+        </NuxtLink>
+        <NuxtLink to="/donate" class="ml-4 hover:underline decoration-wavy decoration-secondary">
+            Donate
         </NuxtLink>
         <a href="/register" target="_blank" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Sign Up
