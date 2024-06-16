@@ -90,13 +90,13 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">9:30 PM: Typing Contest</h3>
+                            <h3 class="text-left text-3xl text-primary">8:30 PM: Typing Contest</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Step away from your project and have some fun! You'll be competing against other attendees to see who can type the fastest in a TypeRacer tournament, and whoever wins will get a prize.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">10:00 PM: Head Home</h3>
+                            <h3 class="text-left text-3xl text-primary">9:00 PM: Head Home</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 It's been a long day, you'll want to head home and recharge for Day 2. Or, you can keep hacking away with your friends online. We'll see you tomorrow!
                             </p>
