@@ -11,9 +11,9 @@
         <NuxtLink to="/schedule" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Schedule
         </NuxtLink>
-        <NuxtLink to="/donate" class="ml-4 hover:underline decoration-wavy decoration-secondary">
+        <a href="/donate" target="_blank" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Donate
-        </NuxtLink>
+        </a>
         <a href="/register" target="_blank" class="ml-4 hover:underline decoration-wavy decoration-secondary">
             Sign Up
         </a>
