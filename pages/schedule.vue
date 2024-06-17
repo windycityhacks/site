@@ -60,7 +60,13 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">2:00 PM: ML/AI Workshop</h3>
+                            <h3 class="text-left text-3xl text-primary">1:30 PM: Talk with Michael Odongo <a href="https://angazacenter.org" class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary italic">(Angaza Center)</a></h3>
+                            <p class="text-left text-lg text-black-500 mt-1">
+                                While eating your snack, come and listen to Michael Odongo from the Angaza Center talk about the importance of technology literacy, and how the Angaza Center is working to bridge the digital divide worldwide.
+                            </p>
+                        </div>
+                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
+                            <h3 class="text-left text-3xl text-primary">2:30 PM: ML/AI Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Interested in incorporating machine learning into your projects? Join us for a workshop led by a government intern, where you'll learn the fundamentals of AI. This session will provide a crash course on deep learning, guiding you through the application of neural networks in real-world scenarios. Learn how to train basic ML models to enhance your projects.
                             </p>
