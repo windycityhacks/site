@@ -128,13 +128,13 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">11:30 AM: Closing Ceremony</h3>
+                            <h3 class="text-left text-3xl text-primary">12:00 PM: Closing Ceremony</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 You'll join us one last time to celebrate the end of Windy City Hacks! We'll be giving out some awesome prizes to the winners (and some superlatives).
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">12:00 PM: Leave</h3>
+                            <h3 class="text-left text-3xl text-primary">12:30 PM: Leave</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Wow, Windy City Hacks flew by quick! We're so glad you came, and hope you had a great time. See you next year!
                             </p>
