@@ -90,9 +90,9 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">8:00 PM: Game Development Workshop</h3>
+                            <h3 class="text-left text-3xl text-primary">8:00 PM: Digitizing Business with Innovative Technology Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Ever wanted to build your own game? In this workshop, you'll learn how to go behinds the scenes in Roblox Studio to build whatever your heart desires, and maybe incorporate it into your project!
+                                Have you ever wondered how businesses leverage technology and computer science to enhance their operations? Join us to explore how businesses automate processes, streamline management, and elevate customer experiences through innovative technology. Whether you're interested in business, the economy, or curious about AI's impact on companies, this workshop offers an inside look at the cutting-edge strategies shaping modern business practices.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
