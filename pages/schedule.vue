@@ -66,13 +66,13 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">2:30 PM: ML/AI Workshop</h3>
+                            <h3 class="text-left text-3xl text-primary">3:00 PM: ML/AI Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Interested in incorporating machine learning into your projects? Join us for a workshop led by a government intern, where you'll learn the fundamentals of AI. This session will provide a crash course on deep learning, guiding you through the application of neural networks in real-world scenarios. Learn how to train basic ML models to enhance your projects.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">3:30 PM: Personal Website Workshop</h3>
+                            <h3 class="text-left text-3xl text-primary">4:00 PM: Personal Website Workshop</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Want to show off your projects to the world? In this workshop, you'll learn how to build a personal website using HTML, CSS, and JavaScript, and host it with Github Pages! You'll also get 🧋 <span class="text-primary">free Boba Tea</span> during dinner (if you complete the workshop)
                             </p>
