@@ -60,9 +60,9 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">1:30 PM: Talk with Michael Odongo <a href="https://angazacenter.org" class="hover:cursor-pointer hover:underline decoration-wavy decoration-secondary text-primary italic">(Angaza Center)</a></h3>
+                            <h3 class="text-left text-3xl text-primary">1:30 PM: TBA Talk</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                While eating your snack, come and listen to Michael Odongo from the Angaza Center talk about the importance of technology literacy, and how the Angaza Center is working to bridge the digital divide worldwide.
+                                Currently under wraps, we will have a guest speaker share some insights in the industry!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
@@ -78,7 +78,7 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">5:30 PM: Dinner</h3>
+                            <h3 class="text-left text-3xl text-primary">6:00 PM: Dinner</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 Time to eat! Take a break from all your hard work, and enjoy some delicious pizza with your team. And, if you completed the personal website workshop, you'll get 🧋 <span class="text-primary">free Boba Tea</span>!
                             </p>
