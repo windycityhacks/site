@@ -60,9 +60,9 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">1:30 PM: TBA Talk</h3>
+                            <h3 class="text-left text-3xl text-primary">2:00 PM: Talk from Hack Club: Nila Palmo Ram</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
-                                Currently under wraps, we will have a guest speaker share some insights in the industry!
+                                Hack Club is an international non-profit dedicated to teaching high schoolers how to code! Nila will be sharing info about Hack Club!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
