@@ -128,6 +128,18 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
+                            <h3 class="text-left text-3xl text-primary">10:00 AM: Chess.com Tournament</h3>
+                            <p class="text-left text-lg text-black-500 mt-1">
+                                While judging are deliberating, we'll be hosting a Chess.com tournament! You'll have the chance to compete against other attendees!
+                            </p>
+                        </div>
+                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
+                            <h3 class="text-left text-3xl text-primary">10:00 AM: Team Jeopardy</h3>
+                            <p class="text-left text-lg text-black-500 mt-1">
+                                30 minutes away from the closing ceremony, your teams will be able to participate in programming & pop culture Jeopardy!
+                            </p>
+                        </div>
+                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">12:00 PM: Closing Ceremony</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 You'll join us one last time to celebrate the end of Windy City Hacks! We'll be giving out some awesome prizes to the winners (and some superlatives).
