@@ -96,12 +96,6 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">8:30 PM: Typing Contest</h3>
-                            <p class="text-left text-lg text-black-500 mt-1">
-                                Step away from your project and have some fun! You'll be competing against other attendees to see who can type the fastest in a TypeRacer tournament, and whoever wins will get a prize.
-                            </p>
-                        </div>
-                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
                             <h3 class="text-left text-3xl text-primary">9:00 PM: Head Home</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 It's been a long day, you'll want to head home and recharge for Day 2. Or, you can keep hacking away with your friends online. We'll see you tomorrow!
@@ -128,15 +122,21 @@
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">10:00 AM: Chess.com Tournament</h3>
+                            <h3 class="text-left text-3xl text-primary">10:30 AM: Chess.com Tournament</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 While judging are deliberating, we'll be hosting a Chess.com tournament! You'll have the chance to compete against other attendees!
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
-                            <h3 class="text-left text-3xl text-primary">10:00 AM: Team Jeopardy</h3>
+                            <h3 class="text-left text-3xl text-primary">11:00 AM: Team Jeopardy</h3>
                             <p class="text-left text-lg text-black-500 mt-1">
                                 30 minutes away from the closing ceremony, your teams will be able to participate in programming & pop culture Jeopardy!
+                            </p>
+                        </div>
+                        <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
+                            <h3 class="text-left text-3xl text-primary">11:30 AM: Typing Contest</h3>
+                            <p class="text-left text-lg text-black-500 mt-1"> 
+                                Step away from your project and have some fun! You'll be competing against other attendees to see who can type the fastest in a TypeRacer tournament, and whoever wins will get a prize.
                             </p>
                         </div>
                         <div class="border-2 mt-4 md:mt-0 border-primary/75 p-4 rounded-lg">
